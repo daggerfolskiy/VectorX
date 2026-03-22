@@ -1,7 +1,6 @@
 # TIMMY BLACK ImGui Menu (C++)
-
-This folder contains a C++ Dear ImGui clone of your Python menu from `main.py` + `app/ui.py`.
-
+![simple cheat](mikdopng1.png)
+This folder contains a C++ Dear ImGui clone of your Python menu from `main.py` + `app/ui.py`
 Included:
 - `Main` and `Misc` tabs
 - `ESP`, `AimBot`, `Glow`, `Visual` panels
