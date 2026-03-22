@@ -1,0 +1,14 @@
+# Target labels
+ imgui-populate
+# Source files and their labels
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/431ff639f7e9e67a5fa10238b81b93ed/imgui-populate.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/958a7760781065afbc8d52301eebc47b/imgui-populate-complete.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-build.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-configure.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-download.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-install.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-mkdir.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-patch.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-test.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/imgui-subbuild/CMakeFiles/04a10a866e8d683cbe9e1fb33d61e66a/imgui-populate-update.rule

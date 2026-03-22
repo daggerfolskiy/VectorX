@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\CMakeFiles\1d49c8d696bc9f4f99c04339606aa1e1\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3AF7B554-A091-3575-8BD0-7C310EA4FF3A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

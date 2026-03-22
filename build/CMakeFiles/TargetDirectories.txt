@@ -1,0 +1,4 @@
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/CMakeFiles/imgui_lib.dir
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/CMakeFiles/timmy_menu.dir
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/CMakeFiles/ZERO_CHECK.dir

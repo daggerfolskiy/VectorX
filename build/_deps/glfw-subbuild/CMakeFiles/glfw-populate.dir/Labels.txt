@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/a76e9ae670f611422ba64eaca647cd45/glfw-populate.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/b3b28a00244f5bd0697fe9fbb9b55b4a/glfw-populate-complete.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-build.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-configure.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-download.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-install.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-mkdir.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-patch.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-test.rule
+C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-update.rule

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\e3f80c386c3d4433a2fa867514458afa\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\b3b28a00244f5bd0697fe9fbb9b55b4a\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\a76e9ae670f611422ba64eaca647cd45\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D07F41BC-38DB-3C50-887B-6E3CE03C3759}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

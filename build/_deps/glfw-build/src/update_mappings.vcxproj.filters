@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\CMakeFiles\81ad11481d7e35e9d427ed4a09561679\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-src\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-src\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\PC\Desktop\sigmasc\C+Fgo\build\_deps\glfw-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3AF7B554-A091-3575-8BD0-7C310EA4FF3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BF89157F-5C40-3BBD-B965-70AF33F6FEB7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

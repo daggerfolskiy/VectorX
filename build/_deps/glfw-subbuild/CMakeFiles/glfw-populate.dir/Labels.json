@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/a76e9ae670f611422ba64eaca647cd45/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/b3b28a00244f5bd0697fe9fbb9b55b4a/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Desktop/sigmasc/C+Fgo/build/_deps/glfw-subbuild/CMakeFiles/e3f80c386c3d4433a2fa867514458afa/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}
